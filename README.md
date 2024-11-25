@@ -1,5 +1,5 @@
 # 👋 About Me:
-Hi, I’m [Peter Muhumuki](external.link?to=https://petermuhumuki.netlify.app/). I am passionate about full-stack web development, Data Science and artificial intelligence. With experience in both front-end and back-end technologies, I strive to create efficient and innovative solutions. I am particularly interested in leveraging AI to solve complex problems and improve user experiences. Check out my portfolio [here](https://petermuhumuki.netlify.app) to see some of my projects. 
+Hi, I’m [Peter Muhumuki](https://peterkahumu.github.io/professional-portfolio/). I am passionate about full-stack web development, Data Science and artificial intelligence. With experience in both front-end and back-end technologies, I strive to create efficient and innovative solutions. I am particularly interested in leveraging AI to solve complex problems and improve user experiences. Check out my portfolio [here](https://petermuhumuki.netlify.app) to see some of my projects. 
 
 Reach me via [muhumukip@gmail.com](mailto:muhumukip@gmail.com)
 
