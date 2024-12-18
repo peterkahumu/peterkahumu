@@ -63,6 +63,6 @@ Check out my contribution streak:
 ## ✨ Quote:
 _"The best way to predict the future is to invent it." — Alan Kay
 
-This quote highlights the proactive nature of technology and development, reflecting a mindset of innovation and forward-thinking. It aligns well with the ethos of a tech enthusiast and developer like yourself.
+This quote highlights the proactive nature of technology and development, reflecting a mindset of innovation and forward-thinking. It aligns well with the ethos of a tech enthusiast and a developer. 
 
 ---
