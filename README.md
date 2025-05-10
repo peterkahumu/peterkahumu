@@ -50,11 +50,6 @@ Check out my contribution streak:
 
 ---
 
-## 📈 GitHub Activity Graph:
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=peterkahumu&theme=github-compact&hide_border=true)
-
----
-
 ## 🏆 GitHub Trophies:
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=peterkahumu&theme=radical&no-bg=true&row=1&column=7)
 
